@@ -7,4 +7,4 @@ https://asif-ui875.github.io/Change_asif/mega.js
 
 https://asif-ui875.github.io/Change_asif/gama.js
 
-https://asif-ui875.github.io/Change_asif/ga.js
+https://asif-ui875.github.io/Change_asif/chi.js
