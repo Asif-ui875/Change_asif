@@ -1,6 +1,0 @@
-[
-  
-    { "name": "John"},
-    { "name": "Jane" }
-  
-]
